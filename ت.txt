@@ -1,1 +1,1 @@
-sudo apt-get install libavformat-dev libavcodec-dev libavutil-dev
+g++ 1.cpp -o one -lavformat -lavcodec -lavutil
